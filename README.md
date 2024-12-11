@@ -7,7 +7,7 @@ Dynamic Systems Engineer with 10+ years of experience in IT infrastructure, netw
 ### [Wi-Fi Infrastructure Overhaul at MBRV Park](https://github.com/mahyars/Wi-Fi-Infrastructure-Overhaul-at-MBRV-Park)
 Boosted connectivity for over 5,000 users with high-performance network design.
 
-### [MPLS Network Deployment](https://github.com/yourusername/MPLS-Network-Deployment)
+### [MPLS Network Deployment](https://github.com/mahyars/MPLS-Network-Deployment/tree/main)
 Implemented a secure MPLS network across multi-city offices.
 
 ### [Cybersecurity Initiatives](https://github.com/yourusername/Cybersecurity-Initiatives)
