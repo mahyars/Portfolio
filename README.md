@@ -4,7 +4,7 @@
 Dynamic Systems Engineer with 10+ years of experience in IT infrastructure, networking, and security. Skilled in designing secure, scalable networks and managing large-scale projects.
 
 ## Featured Projects
-### [Wi-Fi Infrastructure Overhaul at MBRV Park](https://github.com/yourusername/WiFi-Infrastructure-Overhaul)
+### [Wi-Fi Infrastructure Overhaul at MBRV Park]([https://github.com/yourusername/WiFi-Infrastructure-Overhaul](https://github.com/mahyars/Wi-Fi-Infrastructure-Overhaul-at-MBRV-Park))
 Boosted connectivity for over 5,000 users with high-performance network design.
 
 ### [MPLS Network Deployment](https://github.com/yourusername/MPLS-Network-Deployment)
